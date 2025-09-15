@@ -1,0 +1,13 @@
+*.pyc
+*.log
+__pycache__
+.DS_Store
+.venv/
+pipfile
+.vscode/*
+!.vscode/launch.json
+/.postgres/
+.lsp/.cache/db.transit.json
+local.nix
+.ipython
+*.egg-info
